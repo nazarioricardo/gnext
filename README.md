@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) *template* bootstrapped with [`create-n
 ## Getting Started
 
 ```
-npx create-next-app@latest cover -e https://github.com/nazarioricardo/gnext
+npx create-next-app@latest *project_name* -e https://github.com/nazarioricardo/gnext
 ```
 
 First, run the development server:
